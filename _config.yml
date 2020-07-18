@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Our Future
 subtitle: ''
 description: '这是一个演示站点'
 keywords:
-author: 橘子是橘猫
+author: OurFuture運営委員会
 language: zh-CN
 timezone: ''
 
@@ -95,7 +95,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: cards
 
 # 永久链接
 abbrlink:
