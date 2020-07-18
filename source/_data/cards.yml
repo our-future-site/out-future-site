@@ -36,13 +36,13 @@ head:
 cover: 
 
   # 显示在最上方 cover 处的站点名称
-  sitename: Our Future
+  sitename: OurFuture
 
   # 若设置 logo，则优先使用 logo 代替 sitename
   logo: 
   
   # logo 下方的一句话介绍
-  description: Hi, nice to meet you!
+  description: Tomorrow.
   
   # cover 按钮菜单，通常用于站内导航
   menu: 
@@ -52,10 +52,9 @@ cover:
       url: /tags/
     - name: 归档
       url: /archives/
-    - name: 微博
-      url: https://weibo.com/ysk46
-
-
+    - name: Weibo
+      url: http://weibo.com/ysk46/
+    
 
 
 # ---------------------------------------------------------------
@@ -99,7 +98,7 @@ meta:
   
   # 默认文章作者（可在front-matter中覆盖）
   author:
-    name: Our-Future運営委員会
+    name: Kang
     url: https://our-future.site
   
   # 文章创建日期
@@ -138,9 +137,7 @@ meta:
   
   # 网站页脚，支持 markdown
   footer:
-    - 'Copyright © 2020
-    
-    info@our-future.site'
+    - 'Copyright © 2020'
 
 
 
