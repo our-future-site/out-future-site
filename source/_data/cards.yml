@@ -36,7 +36,7 @@ head:
 cover: 
 
   # 显示在最上方 cover 处的站点名称
-  sitename: Demo
+  sitename: Our Future
 
   # 若设置 logo，则优先使用 logo 代替 sitename
   logo: 
@@ -52,10 +52,9 @@ cover:
       url: /tags/
     - name: 归档
       url: /archives/
-    - name: 友链
-      url: /friends/
-    - name: Page
-      url: /page/
+    - name: 微博
+      url: https://weibo.com/ysk46
+
 
 
 
@@ -100,8 +99,8 @@ meta:
   
   # 默认文章作者（可在front-matter中覆盖）
   author:
-    name: ChrAlpha
-    url: https://chralpha.com
+    name: Our-Future運営委員会
+    url: https://our-future.site
   
   # 文章创建日期
   date:
@@ -139,7 +138,9 @@ meta:
   
   # 网站页脚，支持 markdown
   footer:
-    - 'Copyright © 2020'
+    - 'Copyright © 2020
+    
+    info@our-future.site'
 
 
 
